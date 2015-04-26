@@ -2,8 +2,8 @@
  ============================================================================
  Name        : Hello.c
  Author      : Felitti Renzo
- Version     :
- Copyright   : Your copyright notice
+ Version     : 1.0
+ Last Modification   : 6/4/2015
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
